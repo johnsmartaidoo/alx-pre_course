@@ -8,6 +8,5 @@ How to be up to date in git
 * Then you will use vi buttons to type in the file which are i = to insert writing within the file.
 * After you are done writing you press esc button on your keyboard.
 * The cursor will then move to the botttom this where you will save the context within the file with this instructions.
-* The keys to save and leave the edit is :wq.
+* The keys to save and leave the edit is :cq.
 
-Very Enjoyable Task to do through shell usedd to doing this on visual studio code and atom ide
