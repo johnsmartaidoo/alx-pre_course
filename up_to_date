@@ -1,1 +1,13 @@
 How to be up to date in git
+<h3>Collaboration: Up to Date</h3>
+
+* First cd (change directory) to alx-pre_course
+* Then you type in touch (create the file w/ touch) the file being up_to_date.
+* Then you type in ls to confirm that the up_to_date file has been created.
+* Then you type in vi before the filename eg; vi up_to_date.
+* Then you will use vi buttons to type in the file which are i = to insert writing within the file.
+* After you are done writing you press esc button on your keyboard.
+* The cursor will then move to the botttom this where you will save the context within the file with this instructions.
+* The keys to save and leave the edit is :wq.
+
+Very Enjoyable Task to do through shell usedd to doing this on visual studio code and atom ide
